@@ -1,0 +1,6 @@
+.formBlock {
+    display: inline;
+    float: left;
+    min-width: 340px;
+    margin: 10px;
+}

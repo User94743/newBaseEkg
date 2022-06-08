@@ -1,0 +1,14 @@
+.text {
+    color: #282c34;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+}
+.block_hover {
+    border-radius: 5px;
+
+
+}
+.block_hover:hover {
+ box-shadow: 0px 0px 5px 1px #282c34;
+}
